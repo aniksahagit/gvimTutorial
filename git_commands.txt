@@ -1,0 +1,22 @@
+# Basic git commands
+
+# If git is not installed in your system, we need to install it first. GIT installation command in Linux (ubuntu)
+sudo apt install git
+
+# Cloning the git repository in your machine
+git clone https://github.com/aniksahagit/gvimTutorial.git
+
+# Checks the status of the files in the directory
+git status
+
+# Adds a new or modified file to git repository (local)
+git add .gvimrc 
+git status
+
+# Commits a newly created or modified file to the local git repository
+git commit -m "Basic settings related to .gvimrc only" .gvimrc 
+git status
+
+# Finally pushes the new or modified file to the git repository server
+git push
+
