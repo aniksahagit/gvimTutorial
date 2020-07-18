@@ -6,6 +6,6 @@ set nocompatible   "sets the compatibility to vim only
 
 "A) General Settings
 set showmode        "Shows current mode at the bottom (VISUAL,INSERT)            
-set wrap          "Wrap line at the end of file            
+set wrap            "Wrap line at the end of file            
 set number          "For displaying line numbers 
 
