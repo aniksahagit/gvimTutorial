@@ -33,3 +33,12 @@ set ignorecase      "Ignore Case when searching
 set smartcase       "Automatically switch search to case-sensitive when search query contains an uppercase letter
 set incsearch       "Find the next match as we type the search
 
+"E) For plugins to load correctly
+filetype plugin on
+filetype indent on
+
+
+
+
+
+
